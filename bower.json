@@ -1,13 +1,12 @@
 {
-  "name": "ionic-monthpicker",
-  "description": "Ionic monthpicker",
+  "name": "ion-monthpicker",
+  "description": "A Ionic monthpicker",
   "main": [
     "./dist/ionic-monthpicker.min.js"
   ],
   "authors": [
-    "Petru Isfan"
+    "prui"
   ],
-  "license": "Apache-2.0",
   "keywords": [
     "ionic",
     "month",
